@@ -41,6 +41,7 @@ I'm a passionate data scientist and software developer with a strong focus on da
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-by-rohith&show_icons=true&theme=radical&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-rohith&layout=compact&theme=radical)
 
+
 ## 🔗 Projects
 ### Air Pollution Prediction
 - **Description:** A Flask-based web application that predicts air pollution levels.
