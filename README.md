@@ -53,7 +53,7 @@ I'm a passionate data scientist and software developer with a strong focus on da
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-by-rohith&repo=air-pollution-prediction&theme=radical)](https://github.com/code-by-rohith/AirPollutionPrediction-Using-MachineLearning)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-by-rohith&repo=fake-news-detection&theme=radical)](https://github.com/code-by-rohith/Fake-News-Detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-by-rohith&repo=CommunityForum-Using-MERN&theme=radical)](https://github.com/code-by-rohith/CommunityForum-Using-MERN)
 
 ## 📄 Certifications
 - ![Data Science](https://img.shields.io/badge/Data_Science_Specialization-blue?style=for-the-badge)
