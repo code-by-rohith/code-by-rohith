@@ -52,7 +52,7 @@ I'm a passionate data scientist and software developer with a strong focus on da
 - **Repository**: [Link to the repository](https://github.com/your-github-username/fake-news-detection)
 
 ## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=air-pollution-prediction&theme=radical)](https://github.com/your-github-username/air-pollution-prediction)
+[![ReadMe Card](https://github.com/code-by-rohith/AirPollutionPrediction-Using-MachineLearning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=fake-news-detection&theme=radical)](https://github.com/your-github-username/fake-news-detection)
 
 ## 📄 Certifications
