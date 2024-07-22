@@ -66,5 +66,5 @@ I have a keen interest in gaming and enjoy strategic games during my leisure tim
 
 <!-- Animation -->
 <div align="center">
-  <img src="https://github.com/code-by-rohith/code-by-rohith/blob/main/assets/snk/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://github.com/code-by-rohith/code-by-rohith/blob/main/assets/snk" alt="snake animation">
 </div>
