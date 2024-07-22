@@ -38,18 +38,18 @@ I'm a passionate data scientist and software developer with a strong focus on da
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-by-rohith&show_icons=true&theme=radical)
 
 ## 🔗 Projects
 ### Air Pollution Prediction
 - **Description**: A Flask-based web application that predicts air pollution levels.
 - **Tech Stack**: Python, Flask, HTML, CSS, JavaScript
-- **Repository**: [Link to the repository](https://github.com/your-github-username/air-pollution-prediction)
+- **Repository**: [Link to the repository](https://github.com/code-by-rohith/air-pollution-prediction)
 
 ### Fake News Detection
 - **Description**: A Flask-based web application that detects fake news.
 - **Tech Stack**: Python, Flask, HTML, CSS, JavaScript
-- **Repository**: [Link to the repository](https://github.com/your-github-username/fake-news-detection)
+- **Repository**: [Link to the repository](https://github.com/code-by-rohith/fake-news-detection)
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-by-rohith&repo=air-pollution-prediction&theme=radical)](https://github.com/code-by-rohith/air-pollution-prediction)
