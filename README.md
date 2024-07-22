@@ -39,6 +39,7 @@ I'm a passionate data scientist and software developer with a strong focus on da
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-by-rohith&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-rohith&layout=compact&theme=radical)
 
 ## 🔗 Projects
 ### Air Pollution Prediction
@@ -62,3 +63,8 @@ I'm a passionate data scientist and software developer with a strong focus on da
 
 ## ✨ Fun Fact
 I have a keen interest in gaming and enjoy strategic games during my leisure time.
+
+<!-- Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/code-by-rohith/code-by-rohith/main/assets/github-contribution-grid-snake.svg" alt="snake animation">
+</div>
