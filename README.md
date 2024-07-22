@@ -1,11 +1,11 @@
-# Hi there, I'm Rohith! 👋
+# 👋 Hi there, I'm Rohith!
 
 ## 🚀 About Me
 I'm a passionate data scientist and software developer with a strong focus on data analysis and web development. My journey in the tech world includes developing innovative projects and continuously learning new technologies.
 
-- 🌱 I’m currently delving into Bayesian networks for predictive modeling.
-- 💼 I have experience in data analysis and web application development.
-- 🧑‍🏫 I love tutoring and sharing my knowledge in programming.
+- 🌱 **Currently:** Delving into Bayesian networks for predictive modeling.
+- 💼 **Experience:** Data analysis and web application development.
+- 🧑‍🏫 **Passion:** Tutoring and sharing knowledge in programming.
 
 ## 🛠️ Skills
 
@@ -38,30 +38,34 @@ I'm a passionate data scientist and software developer with a strong focus on da
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-by-rohith&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-by-rohith&show_icons=true&theme=radical&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-rohith&layout=compact&theme=radical)
 
 ## 🔗 Projects
 ### Air Pollution Prediction
-- **Description**: A Flask-based web application that predicts air pollution levels.
-- **Tech Stack**: Python, Flask, HTML, CSS, JavaScript
-- **Repository**: [Link to the repository](https://github.com/code-by-rohith/AirPollutionPrediction-Using-MachineLearning)
+- **Description:** A Flask-based web application that predicts air pollution levels.
+- **Tech Stack:** Python, Flask, HTML, CSS, JavaScript
+- **Repository:** [Link to the repository](https://github.com/code-by-rohith/AirPollutionPrediction-Using-MachineLearning)
+- ![Air Pollution Prediction](https://img.shields.io/badge/Project_Air_Pollution_Prediction-009688?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Fake News Detection
-- **Description**: A Flask-based web application that detects fake news.
-- **Tech Stack**: Python, Flask, HTML, CSS, JavaScript
-- **Repository**: [Link to the repository](https://github.com/code-by-rohith/Fake-News-Detection)
+- **Description:** A Flask-based web application that detects fake news.
+- **Tech Stack:** Python, Flask, HTML, CSS, JavaScript
+- **Repository:** [Link to the repository](https://github.com/code-by-rohith/Fake-News-Detection)
+- ![Fake News Detection](https://img.shields.io/badge/Project_Fake_News_Detection-FF5722?style=for-the-badge&logo=flask&logoColor=white)
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-by-rohith&repo=Basic-BlockChain&theme=radical)](https://github.com/code-by-rohith/Basic-BlockChain)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-by-rohith&repo=CommunityForum-Using-MERN&theme=radical)](https://github.com/code-by-rohith/CommunityForum-Using-MERN)
 
 ## 📄 Certifications
-- ![Data Science](https://img.shields.io/badge/Data_Science_Specialization-blue?style=for-the-badge)
-- ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-green?style=for-the-badge)
-- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
+- 🏆 ![Data Science](https://img.shields.io/badge/Data_Science_Specialization-blue?style=for-the-badge&logo=certification&logoColor=white)
+- 🏆 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-green?style=for-the-badge&logo=certification&logoColor=white)
+- 🏆 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=certification&logoColor=white)
 
 ## ✨ Fun Fact
-I have a keen interest in gaming and enjoy strategic games during my leisure time.
+I have a keen interest in gaming and enjoy strategic games during my leisure time. 🎮
+
+---
 
 
