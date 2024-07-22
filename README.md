@@ -44,12 +44,12 @@ I'm a passionate data scientist and software developer with a strong focus on da
 ### Air Pollution Prediction
 - **Description**: A Flask-based web application that predicts air pollution levels.
 - **Tech Stack**: Python, Flask, HTML, CSS, JavaScript
-- **Repository**: [Link to the repository](https://github.com/code-by-rohith/air-pollution-prediction)
+- **Repository**: [Link to the repository](https://github.com/code-by-rohith/AirPollutionPrediction-Using-MachineLearning)
 
 ### Fake News Detection
 - **Description**: A Flask-based web application that detects fake news.
 - **Tech Stack**: Python, Flask, HTML, CSS, JavaScript
-- **Repository**: [Link to the repository](https://github.com/code-by-rohith/fake-news-detection)
+- **Repository**: [Link to the repository](https://github.com/code-by-rohith/Fake-News-Detection)
 
 ## 🌟 Featured Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-by-rohith&repo=air-pollution-prediction&theme=radical)](https://github.com/code-by-rohith/air-pollution-prediction)
