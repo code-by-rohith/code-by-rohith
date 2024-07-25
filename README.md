@@ -66,8 +66,8 @@ I'm a passionate data scientist and software developer with a strong focus on da
 
 -------------------------------------------------------------------------------------
 
-## ✨ Fun Fact
-I have a keen interest in gaming and enjoy strategic games during my leisure time. 🎮
+  ## ✨ Fun Fact
+  I have a keen interest in gaming and enjoy strategic games during my leisure time. 🎮
 
 --------------------------------------------------------------------------------------
 
