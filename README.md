@@ -64,6 +64,8 @@ I'm a passionate data scientist and software developer with a strong focus on da
 - 🏆 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-green?style=for-the-badge&logo=certification&logoColor=white)
 - 🏆 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=certification&logoColor=white)
 
+-------------------------------------------------------------------------------------
+
 ## ✨ Fun Fact
 I have a keen interest in gaming and enjoy strategic games during my leisure time. 🎮
 
