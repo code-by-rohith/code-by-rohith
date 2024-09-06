@@ -41,7 +41,7 @@ I'm a passionate data scientist and software developer with a strong focus on da
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-by-rohith&show_icons=true&theme=radical&count_private=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-by-rohith&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-by-rohith&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=code-by-rohith&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 🔗 Projects
 ### Air Pollution Prediction
