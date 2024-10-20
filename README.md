@@ -1,14 +1,13 @@
 # 👋 Hi there, I'm Rohith!
 
 ## 🚀 About Me
-I'm a passionate data scientist and software developer with a strong focus on data analysis and web development. My journey in the tech world includes developing innovative projects and continuously learning new technologies.
+I'm an MCA graduate and passionate data scientist and software developer, with a strong focus on data analysis and web development. My journey in the tech world includes developing innovative projects and continuously learning new technologies.
 
 - 🌱 **Currently:** Delving into Bayesian networks for predictive modeling.
-- 💼 **Experience:** Data analysis and web application development.
+- 💼 **Experience:** Data analysis, web application development, API development using FastAPI and Flask.
 - 🧑‍🏫 **Passion:** Tutoring and sharing knowledge in programming.
 
 ## 🛠️ Skills
-
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,6 +27,7 @@ I'm a passionate data scientist and software developer with a strong focus on da
 ![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6F00?style=for-the-badge&logoColor=white)
 
 ### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -37,6 +37,11 @@ I'm a passionate data scientist and software developer with a strong focus on da
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+
+## 🌐 API and Cloud Services
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-by-rohith&show_icons=true&theme=radical&count_private=true&hide=prs)
@@ -64,10 +69,3 @@ I'm a passionate data scientist and software developer with a strong focus on da
 - 🏆 ![Data Science](https://img.shields.io/badge/Data_Science_Specialization-blue?style=for-the-badge&logo=certification&logoColor=white)
 - 🏆 ![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-green?style=for-the-badge&logo=certification&logoColor=white)
 - 🏆 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge&logo=certification&logoColor=white)
-
--------------------------------------------------------------------------------------
-
-## ✨ Fun Fact
-I have a keen interest in gaming and enjoy strategic games during my leisure time. 🎮
-
--------------------------------------------------------------------------------------
