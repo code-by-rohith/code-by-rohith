@@ -3,8 +3,7 @@
 ## 🚀 About Me
 I'm an MCA graduate and passionate data scientist and software developer, with a strong focus on data analysis and web development. My journey in the tech world includes developing innovative projects and continuously learning new technologies.
 
-- 🌱 **Currently:** Delving into Bayesian networks for predictive modeling.
-- 💼 **Experience:** Data analysis, web application development, API development using FastAPI and Flask.
+- 🌱 **Currently:** Data analysis, web application development, API development using FastAPI and Flask.
 - 🧑‍🏫 **Passion:** Tutoring and sharing knowledge in programming.
 
 ## 🛠️ Skills
